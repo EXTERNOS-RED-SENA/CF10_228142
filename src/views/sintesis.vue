@@ -2,12 +2,28 @@
 .curso-main-container.pb-3
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    p.mb-5 A continuación, se muestra un mapa conceptual con los elementos más importantes desarrollados en este componente.
+    .row.justify-content-center.mb-4
+      .col-lg-4.my-lg-0.my-3
+        img.img-a.img-t(src='@/assets/curso/temas/1.png' alt='')    
+      .col-lg-8.my-lg-0.my-3
+        .row.justify-content-center.align-items-center.bg1.p-4.brad.mb-4
+          .col-lg-auto
+            img.img-a.img-t(src='@/assets/curso/temas/2.png' alt='')
+          .col.pt-lg-0.pt-md-4
+            p.mb-0 El presente componente que trata sobre la implementación de comunicaciones unificadas y sistemas de seguridad abarca los fundamentos y aplicaciones de la tecnología de comunicación y los sistemas de seguridad en un entorno empresarial. Comienza con la telefonía IP, abordando los principios de Voice over IP (VoIP), los protocolos de señalización y la calidad de servicio, elementos esenciales para facilitar llamadas de voz claras y fiables a través de redes digitales. Esta base tecnológica es vital para la comunicación efectiva y el soporte de operaciones a distancia.
+        p Asimismo, se exploran las comunicaciones unificadas y los sistemas de colaboración, que integran diversos medios de mensajería y trabajo colaborativo. Esta integración fomenta la eficiencia y conectividad dentro de las organizaciones, permitiendo una comunicación ágil y adaptada a las necesidades modernas de trabajo. 
+        .row.justify-content-center.align-items-center.mb-4
+          .col.pt-lg-0.pt-md-4
+            p.mb-0 Adicionalmente, se examinan los dispositivos que permiten el intercambio de datos de manera inteligente y eficiente en la red, considerando no solo los componentes básicos, sino también aquellos que habilitan funcionalidades avanzadas, como la integración de sensores y controladores. Esta interconectividad resulta fundamental en el contexto del Internet de las Cosas (IoT), donde los dispositivos deben operar en conjunto para lograr una red funcional, autónoma y escalable, capaz de sostener múltiples usuarios y aplicaciones.
+          .col-lg-auto
+            img.img-a.img-t(src='@/assets/curso/temas/3.png' alt='')
+
+    p.mb-5 En conjunto, este componente proporciona una visión integral de las tecnologías y estrategias necesarias para mantener un ambiente seguro y eficiente en cualquier infraestructura de comunicaciones empresariales, optimizando tanto la colaboración como la protección organizacional.
 
     .row.justify-content-center
-      .col-lg-10.mb-5
+      .col-lg-10.mb-5.bgs.p-4.brad
         figure
-          img(src="@/assets/curso/temas/sintesis.svg", alt="alt")
+          img(src="@/assets/curso/temas/sintesis.svg", alt="La Figura 4 se denomina «Síntesis temática del componente», allí se mencionan los principales temas tratados sobre la implementación de comunicaciones unificadas y sistemas de seguridad —como sus fundamentos, importación, técnicas, herramientas y prácticas— y algunos subtemas que los integran.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono
