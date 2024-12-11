@@ -18,7 +18,7 @@
           .col-lg-auto.j1
             img.img-a.img-t(src='@/assets/curso/temas/5.png' alt='')
           .col.pt-lg-0.pt-md-4
-            p.mb-0 El contenido inicia con un análisis de la telefonía IP, abordando los conceptos de Voice over IP (VoIP), los protocolos de señalización y los criterios de calidad de servicio que permiten comunicaciones de voz de alta fidelidad a través de redes IP. A continuación, se estudian las comunicaciones unificadas, que integran diversos sistemas de mensajería y colaboración para mejorar la eficiencia operativa en las organizaciones, promoviendo un ambiente de trabajo más conectado y productivo.
+            p.mb-0 El contenido inicia con un análisis de la telefonía IP, abordando los conceptos de #[i Voice Over] IP (VoIP), los protocolos de señalización y los criterios de calidad de servicio que permiten comunicaciones de voz de alta fidelidad a través de redes IP. A continuación, se estudian las comunicaciones unificadas, que integran diversos sistemas de mensajería y colaboración para mejorar la eficiencia operativa en las organizaciones, promoviendo un ambiente de trabajo más conectado y productivo.
 
     .row.justify-content-center.align-items-end.mb-4     
       .col.pt-lg-0.pt-md-4
@@ -29,7 +29,7 @@
       .col-lg-auto
         img.img-a.img-t(src='@/assets/curso/temas/6.png' alt='')  
 
-    h5.mb-4.text-center.bg1.p-3 ¡Bienvenido a este mundo de la implementación del cableado estructurado!
+    h5.mb-4.text-center.bg1.p-3 ¡Bienvenido a al mundo de la implementación de comunicaciones unificadas y sistemas de seguridad!
 
     .row.justify-content-center.align-items-center        
       .col-lg-12

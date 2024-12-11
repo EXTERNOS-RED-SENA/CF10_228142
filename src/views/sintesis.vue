@@ -10,7 +10,7 @@
           .col-lg-auto
             img.img-a.img-t(src='@/assets/curso/temas/2.png' alt='')
           .col.pt-lg-0.pt-md-4
-            p.mb-0 El presente componente que trata sobre la implementación de comunicaciones unificadas y sistemas de seguridad abarca los fundamentos y aplicaciones de la tecnología de comunicación y los sistemas de seguridad en un entorno empresarial. Comienza con la telefonía IP, abordando los principios de Voice over IP (VoIP), los protocolos de señalización y la calidad de servicio, elementos esenciales para facilitar llamadas de voz claras y fiables a través de redes digitales. Esta base tecnológica es vital para la comunicación efectiva y el soporte de operaciones a distancia.
+            p.mb-0 El presente componente que trata sobre la implementación de comunicaciones unificadas y sistemas de seguridad abarca los fundamentos y aplicaciones de la tecnología de comunicación y los sistemas de seguridad en un entorno empresarial. Comienza con la telefonía IP, abordando los principios de #[i Voice Over] IP (VoIP), los protocolos de señalización y la calidad de servicio, elementos esenciales para facilitar llamadas de voz claras y fiables a través de redes digitales. Esta base tecnológica es vital para la comunicación efectiva y el soporte de operaciones a distancia.
         p Asimismo, se exploran las comunicaciones unificadas y los sistemas de colaboración, que integran diversos medios de mensajería y trabajo colaborativo. Esta integración fomenta la eficiencia y conectividad dentro de las organizaciones, permitiendo una comunicación ágil y adaptada a las necesidades modernas de trabajo. 
         .row.justify-content-center.align-items-center.mb-4
           .col.pt-lg-0.pt-md-4

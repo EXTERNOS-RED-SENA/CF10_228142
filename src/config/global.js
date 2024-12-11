@@ -3,7 +3,7 @@ export default {
     componenteFormativo:
       'Implementación de comunicaciones unificadas y sistemas de seguridad',
     descripcionCurso:
-      'Este componente aborda la implementación de comunicaciones unificadas y sistemas de seguridad y abarca el diseño y ejecución de sistemas <i>VoIP</i>, integración de comunicaciones empresariales, y soluciones de seguridad electrónica como CCTV y alarmas. Por otra parte, también detalla la importancia de centros de control y la gestión de incidentes, orientados a optimizar la seguridad y la colaboración en entornos corporativos.',
+      'Este componente aborda la implementación de comunicaciones unificadas y sistemas de seguridad y abarca el diseño y ejecución de sistemas VoIP, integración de comunicaciones empresariales, y soluciones de seguridad electrónica como CCTV y alarmas. Por otra parte, también detalla la importancia de centros de control y la gestión de incidentes, orientados a optimizar la seguridad y la colaboración en entornos corporativos.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -38,7 +38,7 @@ export default {
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Arquitectura <i>VoIP</i>.',
+            titulo: 'Arquitectura VoIP.',
             hash: 't_1_1',
           },
           {
@@ -155,7 +155,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/prueba.pdf',
+        download: 'downloads/228142_CF010_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -179,31 +179,30 @@ export default {
         'https://gblogs.cisco.com/la/cisco-simplifica-reduce-los-costos-de-su-solucion-de-comunicaciones-unificadas-para-las-empresas-medianas/?form=MG0AV3',
     },
     {
-      tema:
-        'https://gblogs.cisco.com/la/cisco-simplifica-reduce-los-costos-de-su-solucion-de-comunicaciones-unificadas-para-las-empresas-medianas/?form=MG0AV3',
+      tema: '2. Monitoreo y gestión',
       referencia:
-        'Ecosistema de Recursos Educativos Digitales SENA. (2023f, octubre 04). <i>Monitoreo de seguridad web.</i>',
+        'Ecosistema de Recursos Educativos Digitales SENA. (2023, octubre 04). <i>Monitoreo de seguridad web.</i>',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=VusaSKjpYLg',
     },
     {
       tema: '3. Seguridad electrónica',
       referencia:
-        'Ecosistema de Recursos Educativos Digitales SENA. (2022f, marzo 11). <i>Introducción a la Ciberseguridad, sus fundamentos y normativa.</i>',
+        'Ecosistema de Recursos Educativos Digitales SENA. (2022, marzo 11). <i>Introducción a la Ciberseguridad, sus fundamentos y normativa.</i>',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=3rqfPRqnKIM',
     },
     {
       tema: '4. Seguridad electrónica',
       referencia:
-        'Ecosistema de Recursos Educativos Digitales SENA. (2023f, febrero 01). <i>Metodología y estrategias de la ciberseguridad</i>',
+        'Ecosistema de Recursos Educativos Digitales SENA. (2023, febrero 01). <i>Metodología y estrategias de la ciberseguridad</i>',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=Dc7PGh5Aiss',
     },
     {
       tema: '5. Gestión de incidentes',
       referencia:
-        'Ecosistema de Recursos Educativos Digitales SENA. (2023f, diciembre 01). <i>Monitoreo y respuesta de incidentes de seguridad digital</i>',
+        'Ecosistema de Recursos Educativos Digitales SENA. (2023, diciembre 01). <i>Monitoreo y respuesta de incidentes de seguridad digital</i>',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=Gwu7EATxkZ0',
     },
@@ -215,7 +214,7 @@ export default {
         'Proceso de análisis de imágenes de video para detectar y comprender patrones o eventos específicos en tiempo real o diferido.',
     },
     {
-      termino: 'Arquitectura <i>VoIP</i>',
+      termino: 'Arquitectura VoIP',
       significado:
         'Estructura tecnológica que permite transmitir comunicaciones de voz a través de internet utilizando el protocolo IP, optimizando costos y recursos.',
     },
@@ -277,12 +276,12 @@ export default {
     {
       termino: 'Protocolo de señalización',
       significado:
-        'Normas que regulan el establecimiento, mantenimiento y finalización de conexiones en sistemas de comunicación, como SIP o H.323 en <i>VoIP</i>.',
+        'Normas que regulan el establecimiento, mantenimiento y finalización de conexiones en sistemas de comunicación, como SIP o H.323 en VoIP.',
     },
     {
       termino: 'Redes IP',
       significado:
-        'Redes basadas en el Protocolo de Internet (IP), que permiten la transmisión de datos de manera eficiente y son la base para servicios como <i>VoIP</i>',
+        'Redes basadas en el Protocolo de Internet (IP), que permiten la transmisión de datos de manera eficiente y son la base para servicios como VoIP',
     },
     {
       termino: 'Seguridad electrónica',
@@ -305,7 +304,7 @@ export default {
         'Tecnología que permite realizar llamadas de voz a través de redes IP, reduciendo costos y mejorando la flexibilidad en la comunicación.',
     },
     {
-      termino: '<i>VoIP (Voice over IP)</i>',
+      termino: '<i>VoIP</i> (<i>Voice over</i> IP)',
       significado:
         'Tecnología que permite la transmisión de voz sobre internet en lugar de líneas telefónicas convencionales, facilitando la telefonía IP.',
     },
@@ -313,25 +312,25 @@ export default {
   referencias: [
     {
       referencia:
-        'Bosch Security and Safety Systems. (s.f.).<i> Documentación técnica de Video Analytics</i>. Recuperado de ',
+        'Bosch Security and Safety Systems. (s.f.).<i> Documentación técnica de Video Analytics</i>.  ',
       link:
         'https://www.boschsecurity.com/xl/es/soluciones/sistemas-de-video/video-analytics/documentacion-tecnica-de-video-analytics/',
     },
     {
       referencia:
-        'Chao, H. C., & Lin, J. (2019). <i>Quality of Service in VoIP and Unified Communications. Journal of Communications, 43</i>(4), 257-266. Disponible en: ',
+        'Chao, H. C., & Lin, J. (2019). <i>Quality of Service in VoIP and Unified Communications. Journal of Communications, 43</i>(4), 257-266.  ',
       link:
         'https://www.fortinet.com/resources/cyberglossary/qos-quality-of-service',
     },
     {
       referencia:
-        'Eagle Eye Networks. (2021). <i>GUÍA DE BUENAS PRÁCTICAS Manual de Videoseguridad</i>. Tomado de: ',
+        'Eagle Eye Networks. (2021). <i>GUÍA DE BUENAS PRÁCTICAS Manual de Videoseguridad</i>.  ',
       link:
         'https://www.een.com/wp-content/uploads/2021/05/Video-Security-Primer-20210519_ES_compressed.pdf',
     },
     {
       referencia:
-        'García, M., & Fernández, L. (2018). <i>Tecnologías de comunicaciones unificadas en entornos empresariales</i>. Editorial Reverte. Disponible en: ',
+        'García, M., & Fernández, L. (2018). <i>Tecnologías de comunicaciones unificadas en entornos empresariales</i>. Editorial Reverte.  ',
       link:
         'https://editorialreverte.com/catalogo https://alphaenginyeria.com/la-importancia-de-las-comunicaciones-unificadas-en-el-entorno-empresarial',
     },
@@ -341,17 +340,17 @@ export default {
     },
     {
       referencia:
-        'Martínez, C., & Pérez, L. (2020). <i>Centros de control y operaciones en sistemas de seguridad avanzada</i>. Universidad de Alcalá. Disponible en: Repositorio Institucional de la Universidad de Alcalá',
+        'Martínez, C., & Pérez, L. (2020). <i>Centros de control y operaciones en sistemas de seguridad avanzada</i>. Universidad de Alcalá.  Repositorio Institucional de la Universidad de Alcalá',
     },
     {
       referencia:
-        'Microsoft. (2023). <i>Messaging Services in Unified Communication Systems</i>. Disponible en: ',
+        'Microsoft. (2023). <i>Messaging Services in Unified Communication Systems</i>.  ',
       link:
         'https://learn.microsoft.com/en-us/microsoftteams/teams-security-guide',
     },
     {
       referencia:
-        'Nolasco-Mamani, M. A., Espinoza, S. A., & Choque-Salcedo, R. (2023). <i>Innovación y Transformación Digital en el Empresa. Revista de Innovación Empresarial</i>, 10(2), 123-145. Tomado de: ',
+        'Nolasco-Mamani, M. A., Espinoza, S. A., & Choque-Salcedo, R. (2023). <i>Innovación y Transformación Digital en el Empresa. Revista de Innovación Empresarial</i>, 10(2), 123-145.  ',
       link:
         'https://www.researchgate.net/publication/376210760_Innovacion_y_Transformacion_Digital_en_el_Empresa',
     },
@@ -361,19 +360,19 @@ export default {
     },
     {
       referencia:
-        'Reinhold, S., & Peterson, L. (2020). <i>Signaling Protocols in VoIP Communication Systems. Journal of Digital Communication Systems, 47(3), 134-150</i>. Tomado de: ',
+        'Reinhold, S., & Peterson, L. (2020). <i>Signaling Protocols in VoIP Communication Systems. Journal of Digital Communication Systems, 47(3), 134-150</i>.  ',
       link:
         'https://www.researchgate.net/publication/221034718_Patterns_for_VoIP_Signaling_Protocol_Architectures',
     },
     {
       referencia:
-        'Sánchez, D. (2021). <i>Analítica de video en la seguridad urbana: Implementación y resultados. Revista Científica de Tecnología y Seguridad Urbana</i>. Tomado de: ',
+        'Sánchez, D. (2021). <i>Analítica de video en la seguridad urbana: Implementación y resultados. Revista Científica de Tecnología y Seguridad Urbana</i>.  ',
       link:
         'https://innovacionindustrial.net/ciudades-inteligentes/como-analitica-video-transformando-seguridad-ciudades-inteligentes/',
     },
     {
       referencia:
-        'Securitas España. (s.f.). <i>Analítica de vídeo: lo que el ojo no ve.</i> Recuperado de: ',
+        'Securitas España. (s.f.). <i>Analítica de vídeo: lo que el ojo no ve.</i> ',
       link: 'https://www.securitas.es/blog/analitica-de-video/',
     },
   ],
