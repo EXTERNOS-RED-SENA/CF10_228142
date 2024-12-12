@@ -35,7 +35,8 @@
       .col-lg-12
         figure
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/3Tz3NC57tuU?si=MCEAriFIkct4kutd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)      
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/GDCz6IX7ktc?si=zQ1jNI4gbds6MHP3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen) 
+          figcaption Video. Implementación de comunicaciones unificadas y sistemas de seguridad     
 
 </template>
 
